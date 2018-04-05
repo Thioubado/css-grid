@@ -11,6 +11,19 @@
     <title>CSS-GRID</title>
 </head>
 <body>
-    
+    <div class="wrapper">
+        <!-- NAVIGATION-->
+        <div class="main-nav">
+            <ul>
+                <li><a href="#">home</a></li>
+                <li><a href="#">about</a></li>
+                <li><a href="#">services</a></li>
+                <li><a href="#">contact</a></li>
+            </ul>
+        </div>
+        <!-- NAVIGATION ENDS-->
+
+    </div>
+    <!-- WRAPPER ENDS-->
 </body>
 </html>
