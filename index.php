@@ -23,6 +23,19 @@
         </nav>
         <!-- NAVIGATION ENDS-->
 
+        <!-- TOP CONTAINER-->
+        <section class="top container">
+            <header class="showcase">
+                <h1>Your web presence</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing 
+                elit. In quis malesuada massa. Fusce sit amet nunc ac
+                massa sollicitudin dignissim molestie ac arcu. Aenean at
+                 aliquam nunc. Ut vitae nisl nisl. Aliquam sit amet
+                 pellentesque velit. Aenean gravida, dolor sit amet
+                  pulvinar sollicitudin, massa </p>
+            </header>
+        </section>
+
     </div>
     <!-- WRAPPER ENDS-->
 </body>
