@@ -62,7 +62,7 @@ img{
 }
 
 /* CONTAINER*/
-.top container{
+.top-container{
     display: grid;
     grid-gap: 20px;
     grid-template-areas: 
