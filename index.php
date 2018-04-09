@@ -45,7 +45,72 @@
         </section>
 
         <!-- Boxes section -->
+        <section class="boxes">
+            <div class="box">
+            <!--fa-4x permet d'augementer la taille de l'image 4 fois-->
+            <i class="fas fa-chart-pie fa-4x"></i>
+            <h3>Analytics</h3>
+            <p>Fusce sit amet nunc ac
+            massa sollicitudin dignissim molestie ac arcu.Lorem ipsum dolor sit amet,
+             consectetur adipiscing elit. In quis malesuada massa</p>
+            </box>
+            <div class="box">
+            <!--fa-4x permet d'augementer la taille de l'image 4 fois-->
+            <i class="fas fa-globe fa-4x"></i>
+            <h3>Marketing</h3>
+            <p>Fusce sit amet nunc ac
+            massa sollicitudin dignissim molestie ac arcu.Lorem ipsum dolor sit amet,
+             consectetur adipiscing elit. In quis malesuada massa</p>
+            </box>
+            <div class="box">
+            <!--fa-4x permet d'augementer la taille de l'image 4 fois-->
+            <i class="fas fa-cog fa-4x"></i>
+            <h3>Development</h3>
+            <p>Fusce sit amet nunc ac
+            massa sollicitudin dignissim molestie ac arcu.Lorem ipsum dolor sit amet,
+             consectetur adipiscing elit. In quis malesuada massa</p>
+            </box>
+            <div class="box">
+            <!--fa-4x permet d'augementer la taille de l'image 4 fois-->
+            <i class="fas fa-users fa-4x"></i>
+            <h3>Support</h3>
+            <p>Fusce sit amet nunc ac
+            massa sollicitudin dignissim molestie ac arcu.Lorem ipsum dolor sit amet,
+             consectetur adipiscing elit. In quis malesuada massa</p>
+            </box>
+        </section>
         
+        <!-- Infos secion-->
+        <section class="infos">
+            <img src="img/pexels-photo-355988.jpeg" alt="">
+            <h2>Your Business On The Web</h2>
+            <p>Nam laoreet cursus arcu, id finibus nunc tincidunt vel. Fusce
+            finibus dui eu neque porttitor, sed faucibus urna tempus. Etiam vitae dolor
+            sollicitudin, semper quam ac, gravida velit. Donec eget mauris elementum, 
+            ornare purus sit amet, dapibus nibh. Nunc fringilla eget ex a tempor. Praesent 
+            efficitur sed ipsum sed sodales. Suspendisse maximus orci at fermentum
+            sollicitudin. Vestibulum elementum arcu eros, sed fringilla ante congue sit amet.
+             Nulla </p>
+             <a href="#" class="btn">Learn More</a>
+        </section>
+
+        <!-- Portfolio section -->
+        <section class="portfolio">
+            <img src="https://source.unsplash.com/random/200x200" alt="">
+            <img src="https://source.unsplash.com/random/201x200" alt="">
+            <img src="https://source.unsplash.com/random/202x200" alt="">
+            <img src="https://source.unsplash.com/random/203x200" alt="">
+            <img src="https://source.unsplash.com/random/204x200" alt="">
+            <img src="https://source.unsplash.com/random/205x200" alt="">
+            <img src="https://source.unsplash.com/random/206x200" alt="">
+            <img src="https://source.unsplash.com/random/207x200" alt="">
+            <img src="https://source.unsplash.com/random/208x200" alt="">
+        </section>
+
+        <!-- Footer section -->
+        <footer>
+            <p>GRIDBI &copy; 2018</p>
+        </footer>
     </div>
     <!-- WRAPPER ENDS-->
 </body>
