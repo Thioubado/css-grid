@@ -24,7 +24,7 @@
         <!-- NAVIGATION ENDS-->
 
         <!-- TOP CONTAINER-->
-        <section class="top container">
+        <section class="top-container">
             <header class="showcase">
                 <h1>Your web presence</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing 
