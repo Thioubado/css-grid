@@ -29,13 +29,23 @@
                 <h1>Your web presence</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing 
                 elit. In quis malesuada massa. Fusce sit amet nunc ac
-                massa sollicitudin dignissim molestie ac arcu. Aenean at
-                 aliquam nunc. Ut vitae nisl nisl. Aliquam sit amet
-                 pellentesque velit. Aenean gravida, dolor sit amet
-                  pulvinar sollicitudin, massa </p>
+                massa sollicitudin dignissim molestie ac arcu.</p>
+                <a href="#" class="btn">Read more</a>
             </header>
+            <div class="top-box top-box-a">
+                <h4>Membership</h4>
+                <p class="price">$199/mo</p>
+                <a href="#" class="btn">Buy now</a>
+            </div>
+            <div class="top-box top-box-b">
+                <h4>Pro Membership</h4>
+                <p class="price">$299/mo</p>
+                <a href="#" class="btn">Buy now</a>
+            </div>
         </section>
 
+        <!-- Boxes section -->
+        
     </div>
     <!-- WRAPPER ENDS-->
 </body>
