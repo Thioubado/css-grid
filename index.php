@@ -53,7 +53,7 @@
             <p>Fusce sit amet nunc ac
             massa sollicitudin dignissim molestie ac arcu.Lorem ipsum dolor sit amet,
              consectetur adipiscing elit. In quis malesuada massa</p>
-            </box>
+            </div>
             <div class="box">
             <!--fa-4x permet d'augementer la taille de l'image 4 fois-->
             <i class="fas fa-globe fa-4x"></i>
@@ -61,7 +61,7 @@
             <p>Fusce sit amet nunc ac
             massa sollicitudin dignissim molestie ac arcu.Lorem ipsum dolor sit amet,
              consectetur adipiscing elit. In quis malesuada massa</p>
-            </box>
+            </div>
             <div class="box">
             <!--fa-4x permet d'augementer la taille de l'image 4 fois-->
             <i class="fas fa-cog fa-4x"></i>
@@ -69,7 +69,7 @@
             <p>Fusce sit amet nunc ac
             massa sollicitudin dignissim molestie ac arcu.Lorem ipsum dolor sit amet,
              consectetur adipiscing elit. In quis malesuada massa</p>
-            </box>
+            </div>
             <div class="box">
             <!--fa-4x permet d'augementer la taille de l'image 4 fois-->
             <i class="fas fa-users fa-4x"></i>
@@ -77,7 +77,7 @@
             <p>Fusce sit amet nunc ac
             massa sollicitudin dignissim molestie ac arcu.Lorem ipsum dolor sit amet,
              consectetur adipiscing elit. In quis malesuada massa</p>
-            </box>
+            </div>
         </section>
         
         <!-- Infos secion-->
