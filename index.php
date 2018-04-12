@@ -83,6 +83,7 @@
         <!-- Infos secion-->
         <section class="infos">
             <img src="img/pexels-photo-355988.jpeg" alt="">
+            <div>
             <h2>Your Business On The Web</h2>
             <p>Nam laoreet cursus arcu, id finibus nunc tincidunt vel. Fusce
             finibus dui eu neque porttitor, sed faucibus urna tempus. Etiam vitae dolor
@@ -92,6 +93,7 @@
             sollicitudin. Vestibulum elementum arcu eros, sed fringilla ante congue sit amet.
              Nulla </p>
              <a href="#" class="btn">Learn More</a>
+             </div>
         </section>
 
         <!-- Portfolio section -->
